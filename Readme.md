@@ -1,6 +1,6 @@
 # LeetCode Badges
 
-Here are my LeetCode badges:
+🔗 [My LeetCode Profile](https://leetcode.com/u/Kuldeep-Sahoo/)
 
 <p align="center">
   <img src="2024-50.png" alt="2024 - 50 Problems" width="150"/>
